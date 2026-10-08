@@ -21,7 +21,7 @@
 #include <windows.h>
 #include <tchar.h>
 #include <commctrl.h>
-#include "ExDll.h"
+#include "../ExDll/exdll.h"
 #include "resource.h"
 
 #ifndef PBM_SETMARQUEE
